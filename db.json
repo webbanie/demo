@@ -4,11 +4,8 @@
     { "id": 2, "name": "Jane" },
     { "id": 3, "name": "Ghost" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "events": [
+    { "id": 1, "title": "some title 1", "userId": 1 },
+    { "id": 2, "title": "some title 2", "userId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
