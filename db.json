@@ -7,5 +7,5 @@
   "events": [
     { "id": 1, "title": "some title 1", "userId": 1 },
     { "id": 2, "title": "some title 2", "userId": 1 }
-  ],
+  ]
 }
